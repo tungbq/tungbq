@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tung.bquang@gmail.com
 - 😄 Pronouns: Mr. Bùi Quang Tùng
 
-[![Tung's GitHub stats](https://github-readme-stats.vercel.app/api?username=tungbq&count_private=true&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Tung's GitHub stats](https://github-readme-stats.vercel.app/api?username=tungbq&count_private=true&theme=tokyonight&show_icons=true)
