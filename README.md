@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Mr. Bùi Quang Tùng
 
 ![Tung's GitHub stats](https://github-readme-stats.vercel.app/api?username=tungbq&count_private=true&theme=tokyonight&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tungbq)](https://git.io/streak-stats)
