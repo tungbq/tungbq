@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🔥 I'm building the repo to get hands on AWS with Terraform - [**aws-lab-with-terraform**](https://github.com/tungbq/aws-lab-with-terraform)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about AWS, Jenkins, Docker, K8S, CI/CD, Terraform, Ansible, Github
+- 🥇 Certificate: AWS Solutions Architect Associate
 - 📫 How to reach me: tung.bquang@gmail.com
 - 😄 Pronouns: Mr. Bùi Quang Tùng
 
