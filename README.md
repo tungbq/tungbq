@@ -5,9 +5,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a DevOps Engineer
 - 🌱 I’m currently learning AWS, Terraform, Ansible, Caching
 - 🏗️ I'm building DevOps projects, below are my most stars repositories:
-   - ➡️ [**devops-basics**](https://github.com/tungbq/devops-basics) | [**AWSHub**](https://github.com/tungbq/AWSHub) | [**devops-project**](https://github.com/tungbq/devops-project)
-   - ➡️ [**devops-toolkit**](https://github.com/tungbq/devops-toolkit) | [**awesome-workflow**](https://github.com/tungbq/awesome-workflow) | [**k8s-hub**](https://github.com/tungbq/k8s-hub)
-   - ➡️ [**aws-lab-with-terraform**](https://github.com/tungbq/aws-lab-with-terraform)
+   - ➡️ [**devops-basics**](https://github.com/tungbq/devops-basics): 🚀 Practical and document place for DevOps toolchain
+   - ➡️ [**AWSHub**](https://github.com/tungbq/AWSHub): 📚 Collection of AWS Services documentation and learning resources
+   - ➡️ [**devops-project**](https://github.com/tungbq/devops-project): Collection of DevOps projects to level up your DevOps skills
+   - ...and more. Checkout my full repositories landscape: [**here**](https://github.com/tungbq/repos)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about AWS, Jenkins, Docker, K8S, CI/CD, Terraform, Ansible, Github
 - 🥇 Certificate: AWS Solutions Architect Associate
