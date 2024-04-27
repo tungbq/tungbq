@@ -4,9 +4,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a DevOps Engineer
 - 🌱 I’m currently learning AWS, Terraform, Ansible, Caching
-- 🏗️ I'm building DevOps projects, below are my most stars repositories:
+- 🏗️ I'm building DevOps projects, below are my highlight repositories:
    - ➡️ [**devops-basics**](https://github.com/tungbq/devops-basics): 🚀 Practical and document place for DevOps toolchain
    - ➡️ [**AWSHub**](https://github.com/tungbq/AWSHub): 📚 Collection of AWS Services documentation and learning resources
+   - ➡️ [**devops-toolkit**](https://github.com/tungbq/devops-toolkit): 🐳 Container image for an all-in-one DevOps environment with popular tools
    - ➡️ [**devops-project**](https://github.com/tungbq/devops-project): Collection of DevOps projects to level up your DevOps skills
    - ...and more.
 - 🚀 Checkout my full repositories landscape ➡️ [**here**](https://github.com/tungbq/repos/blob/main/README.md)
