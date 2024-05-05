@@ -11,6 +11,7 @@ Here are some ideas to get you started:
    - ➡️ [**devops-project**](https://github.com/tungbq/devops-project): Collection of DevOps projects to level up your DevOps skills
    - ...and more.
 - 🚀 Checkout my full repositories landscape ➡️ [**here**](https://github.com/tungbq/repos/blob/main/README.md)
+- 🚀 Building [TheDevOpsHub](https://github.com/TheDevOpsHub) for a central DevOps Hub
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about AWS, Jenkins, Docker, K8S, CI/CD, Terraform, Ansible, Github
 - 🥇 Certificate: AWS Solutions Architect Associate
