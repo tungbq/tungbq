@@ -16,8 +16,7 @@
    - ➡️ [**AWSHub**](https://github.com/tungbq/AWSHub): 📚 Collection of AWS Services documentation and learning resources
    - ➡️ [**devops-toolkit**](https://github.com/tungbq/devops-toolkit): 🐳 Container image for an all-in-one DevOps environment with popular tools
    - ➡️ [**devops-project**](https://github.com/tungbq/devops-project): Collection of DevOps projects to level up your DevOps skills
-   - ...and more.
-   - 🚀 Checkout my full repositories landscape ➡️ [**here**](https://github.com/tungbq/repos/blob/main/README.md)
+   - ...and more, checkout my full repositories landscape ➡️ [**here**](https://github.com/tungbq/repos/blob/main/README.md) 🚀
 - 🔥 I'm also building [**TheDevOpsHub**](https://github.com/TheDevOpsHub) for a central DevOps learning and practical Hub
 
 ![Tung's GitHub stats](https://github-readme-stats.vercel.app/api?username=tungbq&count_private=true&theme=tokyonight&show_icons=true)
