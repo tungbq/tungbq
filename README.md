@@ -18,6 +18,7 @@
    - ➡️ [**devops-project**](https://github.com/tungbq/devops-project): Collection of DevOps projects to level up your DevOps skills
    - ➡️ [**LocalEnv**](https://github.com/tungbq/LocalEnv): 🐳 LocalEnv - Local Containerized Environment supports various languages
    - ➡️ [**K8sHub**](https://github.com/tungbq/K8sHub): Kubernetes deployment samples, practices, and examples
+   - ➡️ [**microservices-deployment**](https://github.com/TheDevOpsHub/microservices-deployment): Sample microservices deployment on k8s with proxy, monitoring, logging features
    - ...and more, checkout my full repositories landscape ➡️ [**here**](https://github.com/tungbq/repos/blob/main/README.md) 🚀
 
 **My organization:**
