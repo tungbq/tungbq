@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm an experienced **DevOps Engineer** with a strong background in both on-premises and cloud platforms (Azure, AWS), CI/CD implementation, and infrastructure automation. Skilled in IaC, containerization, Kubernetes, and various DevOps tools.
-- I keep contributing to various open source projects and building DevOps repositories for everyone to explore, learn, practice and work on DevOps efficency.
+- I keep contributing to various **open-source** projects and building DevOps repositories for everyone to explore, learn, practice and work on DevOps efficency.
 
 **About me**
 - ♾️ DevOps Enginner
