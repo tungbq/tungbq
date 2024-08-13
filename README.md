@@ -3,7 +3,7 @@
 - I keep contributing to various **open-source** projects and building DevOps repositories for everyone to explore, learn, practice and work on DevOps efficency.
 
 **About me**
-- ♾️ DevOps Enginner
+- ♾️ DevOps Engineer
 - ⭐ Open-source Contributor
 - ✍️ Blogger
 - 📚 Always learning something new
