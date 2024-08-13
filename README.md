@@ -14,7 +14,7 @@
 **My Projects**
 -  🚀 I'm building [**TheDevOpsHub**](https://github.com/TheDevOpsHub) for a central DevOps learning and practical Hub
 - 🏗️ Below are my highlight repositories:
-   - ➡️ [**devops-basics**](https://github.com/tungbq/devops-basics): 🚀 Practical and document place for DevOps toolchain
+   - ➡️ [**devops-basics**](https://github.com/tungbq/devops-basics): 🚀 Practical and document place for DevOps toolchain (https://tungbq.github.io/devops-basics/)
    - ➡️ [**AWSHub**](https://github.com/tungbq/AWSHub): 📚 Collection of AWS Services documentation and learning resources
    - ➡️ [**devops-toolkit**](https://github.com/tungbq/devops-toolkit): 🐳 Container image for an all-in-one DevOps environment with popular tools
    - ➡️ [**devops-project**](https://github.com/tungbq/devops-project): Collection of DevOps projects to level up your DevOps skills
