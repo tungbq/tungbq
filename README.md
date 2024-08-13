@@ -21,6 +21,7 @@
    - ➡️ [**LocalEnv**](https://github.com/tungbq/LocalEnv): 🐳 LocalEnv - Local Containerized Environment supports various languages
    - ➡️ [**K8sHub**](https://github.com/tungbq/K8sHub): Kubernetes deployment samples, practices, and examples
    - ➡️ [**microservices-deployment**](https://github.com/TheDevOpsHub/microservices-deployment): Sample microservices deployment on k8s with proxy, monitoring, logging features
+   - ➡️ [**cmd**](https://github.com/tungbq/cmd): A bookmark for my daily used command line :bookmark:
 - 👀 Checkout my full repositories landscape ➡️ [**here**](https://github.com/tungbq/repos/blob/main/README.md) 🚀
 
 **My contributions**
