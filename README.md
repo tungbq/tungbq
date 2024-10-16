@@ -12,9 +12,9 @@
 - 😄 Pronouns: Mr. Bùi Quang Tùng
 
 **My Projects**
--  🚀 I'm building [**TheDevOpsHub**](https://github.com/TheDevOpsHub) for a central DevOps learning and practical Hub (**URL:** https://thedevopshub.org/)
+-  🚀 I'm building [**TheDevOpsHub**](https://github.com/TheDevOpsHub) for a central DevOps learning and practical Hub (**URL:** [thedevopshub.org](https://thedevopshub.org/))
 - 🏗️ Below are my highlight repositories:
-   - ➡️ [**devops-basics**](https://github.com/tungbq/devops-basics): 🚀 Practical and document place for DevOps toolchain (**URL:** [tungbq.github.io/devops-basics](https://tungbq.github.io/devops-basics/))
+   - ➡️ [**devops-basics**](https://github.com/tungbq/devops-basics): 🚀 Practical and document place for DevOps toolchain (**URL:** [devops-basics.thedevopshub.org](https://devops-basics.thedevopshub.org/))
    - ➡️ [**devops-practice**](https://github.com/tungbq/devops-practice): A place to learn and practice DevOps in a hands-on way 🎮
    - ➡️ [**devops-project**](https://github.com/tungbq/devops-project): Collection of DevOps projects to level up your DevOps skills
    - ➡️ [**AWSHub**](https://github.com/tungbq/AWSHub): 📚 Collection of AWS Services documentation and learning resources
