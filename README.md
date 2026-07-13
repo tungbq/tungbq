@@ -5,7 +5,6 @@
 **About me**
 - ♾️ DevOps Engineer
 - ⭐ Open-source Contributor
-- ✍️ Blogger
 - 📚 Always learning something new
 - ⚽ Football player
 - 📫 How to reach me: tung.bquang@gmail.com
@@ -24,7 +23,3 @@
    - ➡️ [**microservices-deployment**](https://github.com/TheDevOpsHub/microservices-deployment): Sample microservices deployment on k8s with proxy, monitoring, logging features
    - ➡️ [**cmd**](https://github.com/tungbq/cmd): A bookmark for my daily used command line :bookmark: (URL: [tungbq.github.io/cmd](https://tungbq.github.io/cmd))
 - 👀 Checkout my full repositories landscape ➡️ [**here**](https://github.com/tungbq/repos/blob/main/README.md) 🚀
-
-**My contributions**
-
-![Tung's GitHub stats](https://github-readme-stats.vercel.app/api?username=tungbq&count_private=true&theme=tokyonight&show_icons=true)
